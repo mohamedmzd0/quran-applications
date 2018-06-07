@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622906875934",
+    "firebase_url": "https://dailyquran-team.firebaseio.com",
+    "project_id": "dailyquran-team",
+    "storage_bucket": "dailyquran-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622906875934:android:0fd4c3e0cb74be46",
+        "android_client_info": {
+          "package_name": "com.mohamedabdelaziz.dailyquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622906875934-ic9phc5016kufbo8j3p5vpdr4f87tfb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu95IWb6VnINsEMjS3SOMm7bYaUXBmGBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
